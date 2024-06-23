@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Dashboard</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="dashboard-container">
+        <nav>
+            <ul>
+                <li><a href="#" onclick="showSection('general-settings')">General Settings</a></li>
+                <li><a href="#" onclick="showSection('manage-quiz')">Manage Quiz</a></li>
+                <li><a href="#" onclick="showSection('payout-winner')">Payout Winner</a></li>
+                <li><a href="#" onclick="showSection('reset-password')">Reset Password</a></li>
+                <li><a href="#" onclick="showSection('manage-users')">Manage Users</a></li>
+                <li><a href="#" onclick="showSection('deposit-history')">Deposit History</a></li>
+                <li><a href="#" onclick="showSection('payout-history')">Payout History</a></li>
+                <li><a href="#" onclick="showSection('total-users')">Total Registered Users</a></li>
+                <li><a href="#" onclick="showSection('total-quizzes')">Total Registered Quizzes</a></li>
+            </ul>
+        </nav>
+        <div id="general-settings" class="section">
+            <h2>General Settings</h2>
+            <!-- General settings form or options here -->
+        </div>
+        <div id="manage-quiz" class="section">
+            <h2>Manage Quiz</h2>
+            <button onclick="addQuiz()">Add Quiz</button>
+            <button onclick="deleteQuiz()">Delete Quiz</button>
+            <table id="quizTable">
+                <thead>
+                    <tr>
+                        <th>Quiz ID</th>
+                        <th>Quiz Name</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- Quiz rows will be added here dynamically -->
+                </tbody>
+            </table>
+        </div>
+        <div id="payout-winner" class="section">
+            <h2>Payout Winner</h2>
+            <!-- Payout winner functionality here -->
+        </div>
+        <div id="reset-password" class="section">
+            <h2>Reset Password</h2>
+            <!-- Reset password functionality here -->
+        </div>
+        <div id="manage-users" class="section">
+            <h2>Manage Users</h2>
+            <button onclick="addUser()">Add User</button>
+            <button onclick="deleteUser()">Delete User</button>
+            <table id="userTable">
+                <thead>
+                    <tr>
+                        <th>User ID</th>
+                        <th>Username</th>
+                        <th>Score</th>
+                        <th>Date-Time</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- User rows will be added here dynamically -->
+                </tbody>
+            </table>
+        </div>
+        <div id="deposit-history" class="section">
+            <h2>Deposit History</h2>
+            <!-- Deposit history information here -->
+        </div>
+        <div id="payout-history" class="section">
+            <h2>Payout History</h2>
+            <!-- Payout history information here -->
+        </div>
+        <div id="total-users" class="section">
+            <h2>Total Registered Users</h2>
+            <!-- Total registered users information here -->
+        </div>
+        <div id="total-quizzes" class="section">
+            <h2>Total Registered Quizzes</h2>
+            <!-- Total registered quizzes information here -->
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
