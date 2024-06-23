@@ -1,0 +1,661 @@
+{
+"qlevel":
+    {
+    "easy": {
+        "pointer":{
+        "q0": {
+            "question": "Who lives in a pineapple under the sea ?",
+            "options": [
+            "Mickey Mouse",
+            "Harry Potter",
+            "SpongeBob SquarePants",
+            "Santa Claus"
+            ],
+            "answer": "2"
+        },
+        "q1": {
+            "question": "Who is the best cohort at Code Institute ?",
+            "options": [
+            "Donald Trump",
+            "Alan Bushell",
+            "Eminem",
+            "Tom Cruise"
+            ],
+            "answer": "1"
+        },
+        "q2": {
+            "question": "Who is the best mentor at Code Institute ?",
+            "options": [
+            "Angelina Jolie",
+            "Brad Pitt",
+            "Daisy McGirr",
+            "Tom Hanks"
+            ],
+            "answer": "2"
+        },
+        "q3": {
+            "question": "What is an endoscope used to examine ?",
+            "options": [
+            "The head",
+            "The leg",
+            "The inside of the body",
+            "The eye"
+            ],
+            "answer": "2"
+        },
+        "q4": {
+            "question": "H2O is the chemical formula for what ?",
+            "options": [
+            "Air",
+            "Water",
+            "Lasagna",
+            "Fuel"
+            ],
+            "answer": "1"
+        },
+        "q5": {
+            "question": "Brie and Camembert are types of which food ?",
+            "options": [
+            "Cheese",
+            "Soup",
+            "Meat",
+            "Fast food"
+            ],
+            "answer": "0"
+        },
+        "q6": {
+            "question": "In which country was Adolf Hitler born ?",
+            "options": [
+            "Poland",
+            "Austria",
+            "Czech republic",
+            "Russia"
+            ],
+            "answer": "1"
+        },
+        "q7": {
+            "question": "Complete the title of the hit romantic comedy – ‘When Harry Met … ’?",
+            "options": [
+            "Sally",
+            "Mickey Mouse",
+            "Frozen",
+            "Spiderman"
+            ],
+            "answer": "0"
+        },
+        "q8": {
+            "question": "My mother’s mother is my … what ?",
+            "options": [
+            "Sister",
+            "Sibling",
+            "Grandmother",
+            "Mother"
+            ],
+            "answer": "2"
+        },
+        "q9": {
+            "question": "How many zeros are in ten thousand ?",
+            "options": [
+            "Four Zeros",
+            "No Zeros",
+            "Eight Zeros",
+            "Twenty Zeros"
+            ],
+            "answer": "0"
+        },
+        "q10": {
+            "question": "What is the name of a shape with 5 sides ?",
+            "options": [
+            "Square",
+            "Pentagon",
+            "Hexagon",
+            "Triangle"
+            ],
+            "answer": "1"
+        },
+        "q11": {
+            "question": "How many Continents are there ?",
+            "options": [
+            "None",
+            "3",
+            "5",
+            "7"
+            ],
+            "answer": "3"
+        },
+        "q12": {
+            "question": "What is the name of the tallest mountain on earth ?",
+            "options": [
+            "Mount Everest (NP & CHN)",
+            "The hill around the corner",
+            "Snezka (Czech republic)",
+            "Mount Elbrus (Russia)"
+            ],
+            "answer": "0"
+        },
+        "q13": {
+            "question": "In which country would you find the Sydney Opera House ?",
+            "options": [
+            "Ireland",
+            "Australia",
+            "USA",
+            "Mexico"
+            ],
+            "answer": "1"
+        },
+        "q14": {
+            "question": "What software company is headquartered in Redmond, Washington ?",
+            "options": [
+            "Android",
+            "Microsoft",
+            "Linux",
+            "iOS"
+            ],
+            "answer": "1"
+        },
+        "q15": {
+            "question": "In what country is the Chernobyl nuclear plant located ?",
+            "options": [
+            "USA",
+            "Spain",
+            "Ireland",
+            "Ukraine"
+        ],
+        "answer": "3"
+        }
+        }
+    },
+    "medium": {
+        "pointer":{
+        "q0": {
+            "question": "In traditional occupations what did a cooper make ?",
+            "options": [
+            "Knives",
+            "Forks",
+            "Shoes",
+            "Barrels"
+            ],
+            "answer": "3"
+        },
+        "q1": {
+            "question": "When an aircraft exceeds the sound barrier what sort of loud boom can sometimes be heard ?",
+            "options": [
+            "A ultrasonic boom",
+            "A sonic boom",
+            "A light boom",
+            "A loud boom"
+            ],
+            "answer": "1"
+        },
+        "q2": {
+            "question": "How many wives did Henry VIII have ?",
+            "options": [
+            "4 wives",
+            "5 wives",
+            "6 wives",
+            "7 wives"
+            ],
+            "answer": "2"
+        },
+        "q3": {
+            "question": "What colour's of Olympic ring doesn't exist ?",
+            "options": [
+            "Red",
+            "Blue",
+            "Yellow",
+            "Purple"
+            ],
+            "answer": "3"
+        },
+        "q4": {
+            "question": "What ingredient doesn't make margarita cocktail ?",
+            "options": [
+            "Tequila",
+            "Lime Juice",
+            "Vodka",
+            "Triple Sec"
+            ],
+            "answer": "2"
+        },
+        "q5": {
+            "question": "Haw many people are there on an English jury ?",
+            "options": [
+            "10",
+            "11",
+            "12",
+            "13"
+            ],
+            "answer": "2"
+        },
+        "q6": {
+            "question": "Which English town has teams called United and Wednesday ?",
+            "options": [
+            "Manchester",
+            "Sheffield",
+            "Hull City",
+            "Sunderland"
+            ],
+            "answer": "1"
+        },
+        "q7": {
+            "question": "Who did Orlando Bloom played in Pirates of the Caribbean ?",
+            "options": [
+            "Jack the Monkey",
+            "Hector Barbossa",
+            "Will Turner",
+            "Elizabeth Swann"
+            ],
+            "answer": "2"
+        },
+        "q8": {
+            "question": "What sense does human not have ?",
+            "options": [
+            "Smell",
+            "Taste",
+            "Mind reading",
+            "Sight"
+            ],
+            "answer": "2"
+        },
+        "q9": {
+            "question": "What's the name of the Royal family's castle in Scotland ?",
+            "options": [
+            "Tantallon Castle",
+            "Inverness Castle",
+            "Glamis Castle",
+            "Balmoral Castle"
+            ],
+            "answer": "3"
+        },
+        "q10": {
+            "question": "In meters, how long is an Olympic swimming pool ?",
+            "options": [
+            "40 meters",
+            "50 meters",
+            "60 meters",
+            "70 meters"
+            ],
+            "answer": "1"
+        },
+        "q11": {
+            "question": "What's the name of the river that runs through Egypt ?",
+            "options": [
+            "The Niger",
+            "The Orange River",
+            "The Nile",
+            "The Congo River"
+            ],
+            "answer": "2"
+        },
+        "q12": {
+            "question": "Who was British Prime Minister before Theresa May ?",
+            "options": [
+            "David Cameron",
+            "Rishi Sunak",
+            "Elizabeth Truss",
+            "Boris Johnson"
+            ],
+            "answer": "0"
+        },
+        "q13": {
+            "question": "What element does O represent on the periodic table ?",
+            "options": [
+            "Osmium",
+            "Oxygen",
+            "Oganesson",
+            "Nobelium"
+            ],
+            "answer": "1"
+        },
+        "q14": {
+            "question": "What nuts is used to make marzipan ?",
+            "options": [
+            "Peanuts",
+            "Almond",
+            "Coconut",
+            "Cashews"
+            ],
+            "answer": "1"
+        },
+        "q15": {
+            "question": "What does BBC stand for ?",
+            "options": [
+            "British Broadcasting Corporation",
+            "British Broadcasting Creation",
+            "British Broadcasting Company",
+            "British Broadcasting Channels"
+        ],
+        "answer": "0"
+        }
+    }
+    },
+    "hard": {
+        "pointer":{
+        "q0": {
+            "question": "What's the surname of the two brothers inventing the world's first airplane??",
+            "options": [
+            "Wright",
+            "O'Boeing",
+            "Mooney",
+            "O'Leary"
+            ],
+            "answer": "0"
+        },
+        "q1": {
+            "question": "What's the second the longest river in the UK ?",
+            "options": [
+            "River Thames",
+            "River Tweed",
+            "River Nene",
+            "River Trent"
+            ],
+            "answer": "1"
+        },
+        "q2": {
+            "question": "What units is the intensity of sound measured in ?",
+            "options": [
+            "Volts",
+            "Meters",
+            "Knots",
+            "Decibels"
+            ],
+            "answer": "3"
+        },
+        "q3": {
+            "question": "Which American State is called the Golden State ?",
+            "options": [
+            "Alabama",
+            "Montana",
+            "Mississippi",
+            "California"
+            ],
+            "answer": "3"
+        },
+        "q4": {
+            "question": "What's the name of female character, played by a man in Alladin film ?",
+            "options": [
+            "Alladin",
+            "Widow Twankey",
+            "Jasmine",
+            "Genie"
+            ],
+            "answer": "1"
+        },
+        "q5": {
+            "question": "Pure gold is how many carats ?",
+            "options": [
+            "24 carats",
+            "28 carats",
+            "32 carats",
+            "36 carats"
+            ],
+            "answer": "0"
+        },
+        "q6": {
+            "question": "Goulash originally comes from which country ?",
+            "options": [
+            "Poland",
+            "Hungary",
+            "Czech republic",
+            "Russia"
+            ],
+            "answer": "1"
+        },
+        "q7": {
+            "question": "Which artist painted people know as matchstick men ?",
+            "options": [
+            "L S Lowry",
+            "Pablo Picasso",
+            "Salvador Dali",
+            "Vincent van Gogh"
+            ],
+            "answer": "0"
+        },
+        "q8": {
+            "question": "In which city did Dr.Knox buy corpses ?",
+            "options": [
+            "London",
+            "Liverpool",
+            "Manchester",
+            "Edinburgh"
+            ],
+            "answer": "3"
+        },
+        "q9": {
+            "question": "How many Bronte sisters were there ?",
+            "options": [
+            "Two",
+            "Three",
+            "Four",
+            "Five"
+            ],
+            "answer": "1"
+        },
+        "q10": {
+            "question": "What line  of the film Jaws made the AFI's greatest lines ?",
+            "options": [
+            "You're gonna need a bigger hand",
+            "You're gonna need a bigger shark",
+            "You're gonna need a bigger harpune",
+            "You're gonna need a bigger boat"
+            ],
+            "answer": "3"
+        },
+        "q11": {
+            "question": "What date the Victorians celebrate the start of 20th century ?",
+            "options": [
+            "1st January 1899",
+            "1st January 1900",
+            "1st January 1901",
+            "They don't"
+            ],
+            "answer": "2"
+        },
+        "q12": {
+            "question": "Who created the detective Hercule Poirot ?",
+            "options": [
+            "Agatha Christie",
+            "Sir Arthur Conan Doyle",
+            "Ruth Rendell",
+            "Dashiell Hammett"
+            ],
+            "answer": "0"
+        },
+        "q13": {
+            "question": "Which Disney Princess has the least amount of screen time ?",
+            "options": [
+            "Frozen",
+            "Aurora",
+            "Ariel",
+            "Rapunzel"
+            ],
+            "answer": "1"
+        },
+        "q14": {
+            "question": "Which country is the natural habitat of the emu ?",
+            "options": [
+            "New Zealand",
+            "China",
+            "Papua New Guinea",
+            "Australia"
+            ],
+            "answer": "3"
+        },
+        "q15": {
+            "question": "What's the name of line given to a side of ship to show legal submersion ?",
+            "options": [
+            "Limit line",
+            "Submersion line",
+            "Plimsoll line",
+            "Cargo line"
+        ],
+        "answer": "2"
+        }
+    }
+    },
+    "final": {
+        "pointer":{
+        "q0": {
+            "question": "How was the European Recovery Programe in the 1940s more commonly known ?",
+            "options": [
+            "The Marshall Plan",
+            "The Churchill Plan",
+            "The Stalin Plan",
+            "The de Gaulle Plan"
+            ],
+            "answer": "0"
+        },
+        "q1": {
+            "question": "How many languages has Harry Potter been translated into ?",
+            "options": [
+            "65 languages",
+            "66 languages",
+            "67 languages",
+            "68 languages"
+            ],
+            "answer": "3"
+        },
+        "q2": {
+            "question": "What is St.Kitts and Nevis ?",
+            "options": [
+            "An island country in the West Indies",
+            "An island country in the East Indies",
+            "An island country in the West Philippines",
+            "An island country in the East Philippines"
+            ],
+            "answer": "0"
+        },
+        "q3": {
+            "question": "When was the first computer invented ?",
+            "options": [
+            "1936",
+            "1946",
+            "1956",
+            "1966"
+            ],
+            "answer": "1"
+        },
+        "q4": {
+            "question": "How big is the diameter of a basketball hoop ?",
+            "options": [
+            "17 inches",
+            "18 inches",
+            "19 inches",
+            "20 inches"
+            ],
+            "answer": "1"
+        },
+        "q5": {
+            "question": "When was the LEGO bricks invented ?",
+            "options": [
+            "1948",
+            "1958",
+            "1968",
+            "1978"
+            ],
+            "answer": "1"
+        },
+        "q6": {
+            "question": "Where is the oldest tree in the world ?",
+            "options": [
+            "Poland",
+            "Austria",
+            "USA",
+            "Russia"
+            ],
+            "answer": "2"
+        },
+        "q7": {
+            "question": "How many tombs are there in the Valley of the Kings in Egypt ?",
+            "options": [
+            "60",
+            "61",
+            "62",
+            "63"
+            ],
+            "answer": "3"
+        },
+        "q8": {
+            "question": "Which English city was once known as Duroliponte ?",
+            "options": [
+            "London",
+            "Cambridge",
+            "Manchester",
+            "Liverpool"
+            ],
+            "answer": "1"
+        },
+        "q9": {
+            "question": "In Harry Potter, where does Vernon Dursley work ?",
+            "options": [
+            "Godric's Hollow",
+            "Little Hangleton",
+            "Hogvarts",
+            "Grunnings"
+            ],
+            "answer": "3"
+        },
+        "q10": {
+            "question": "Who designed the Eiffel Tower ?",
+            "options": [
+            "Gustave Eiffel",
+            "Pedro Eiffel",
+            "Jean Eiffel",
+            "Alexandre Eiffel"
+            ],
+            "answer": "0"
+        },
+        "q11": {
+            "question": "Which political figure became barroness of Kesteven ? ",
+            "options": [
+            "Queen Elisabeth",
+            "Margaret Thatcher",
+            "Michelle Obama",
+            "Angela Merkel"
+            ],
+            "answer": "1"
+        },
+        "q12": {
+            "question": "Switzerland is made up of how many cantons ?",
+            "options": [
+            "23 cantons",
+            "24 cantons",
+            "25 cantons",
+            "26 cantons"
+            ],
+            "answer": "3"
+        },
+        "q13": {
+            "question": "What year did Vincent van Gogh die ?",
+            "options": [
+            "1888",
+            "1889",
+            "1890",
+            "1891"
+            ],
+            "answer": "2"
+        },
+        "q14": {
+            "question": "What is the name of the COCOPOPS mascot",
+            "options": [
+            "Coco the Monkey",
+            "Coco the Elephant",
+            "Coco the Kangaroo",
+            "Coco the Coala"
+            ],
+            "answer": "0"
+        },
+        "q15": {
+            "question": "What is prince Willaim's full name ?",
+            "options": [
+            "William Arthur Philip John Windsor",
+            "William Arthur Philip Louis Windsor",
+            "William Peter Philip Louis Windsor",
+            "William Arthur Philip George Windsor"
+        ],
+        "answer": "1"
+        }
+        }
+    }
+}
+}
