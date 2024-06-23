@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Dashboard</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="dashboard-container">
+        <nav>
+            <ul>
+                <li><a href="#" onclick="showSection('user-settings')">Settings</a></li>
+                <li><a href="#" onclick="showSection('take-quiz')">Take Quiz</a></li>
+            </ul>
+        </nav>
+        <div id="user-settings" class="section">
+            <h2>Settings</h2>
+            <!-- User settings form or options here -->
+        </div>
+        <div id="take-quiz" class="section">
+            <h2>Take Quiz</h2>
+            <div id="quiz-container">
+                <h3>Sample Quiz</h3>
+                <div class="question">
+                    <p>What is the capital of France?</p>
+                    <input type="radio" name="q1" value="a"> Berlin<br>
+                    <input type="radio" name="q1" value="b"> Madrid<br>
+                    <input type="radio" name="q1" value="c"> Paris<br>
+                    <input type="radio" name="q1" value="d"> Rome<br>
+                </div>
+                <button onclick="submitQuiz()">Submit</button>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
